@@ -3,7 +3,7 @@
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='wilo.conf'
 CONFIGFOLDER='/root/.wilo'
-COIN_DAEMON='wilo'
+COIN_DAEMON='wilod'
 COIN_CLI='wilo-cli'
 COIN_PATH='/usr/local/bin/'
 COIN_TGZ='https://github.com/g00tch/Wilo/releases/download/V1.0.0.1/Wilo.zip'
